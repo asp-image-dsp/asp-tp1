@@ -1,2 +1,3 @@
 # Ignore python notebooks specific files
 .ipynb_checkpoints
+*/*.hdf5
